@@ -10,4 +10,6 @@ Ecomm Appln
 
 5.Order the product
 
-6.Verify the Product
+6.Verify the ordered Product
+
+7.Check the Delivery Status
