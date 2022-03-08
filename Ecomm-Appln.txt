@@ -1,0 +1,13 @@
+Ecomm Appln
+
+1.Register
+
+2. Login
+
+3. Search for a product
+
+4.Select any Product
+
+5.Order the product
+
+6.Verify the Product
