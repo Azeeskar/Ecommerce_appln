@@ -13,3 +13,10 @@ Ecomm Appln
 6.Verify the ordered Product
 
 7.Check the Delivery Status
+
+1.Login
+
+2.Select the product
+
+3.Upload Product Image and Price
+
